@@ -18,7 +18,7 @@
   I’m Shubham Verma
 </h1>
 <div align="center">
-  <img src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966)" alt="Computer man" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Computer man" width="600" height="300"/>
 </div>
 
 ---
