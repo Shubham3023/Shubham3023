@@ -58,8 +58,3 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shubham3023&theme=dark&background=000000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham3023&layout=compact&theme=vision-friendly-dark)
-
-<!---
-Shubham3023/Shubham3023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
