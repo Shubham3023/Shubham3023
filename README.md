@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-Shubham3023&color=blueviolet" alt=""/>
  </div>
 <h1 align="center">
-  hey there 
+  Hey there! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   I’m Shubham Verma
 </h1>
@@ -25,8 +25,8 @@
 
 ### :man_technologist: About Me :
  
-- 👀 A Data Science Enthusiast with B.E. (Mechanical Engg.) from India.
-- 🌱 I’m currently learning Python, SQL, Machine Learning
+- 👀 A **Data Science Enthusiast** with B.E. (Mechanical Engg.) from India.
+- 🌱 I’m currently learning **Machine Learning**.
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 You can follow me on LinkedIn: https://lnkd.in/gfPhvjMR
 - 💬 You can reach me on shubhamverma3023@gmail.com
@@ -36,15 +36,16 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/1280px-scikit-learn-logo.png" title="Sklearn" alt="Sklearn" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
+  <a href="https://www.python.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/></a>&nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60"/></a>&nbsp;
+  <a href="https://numpy.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="60" height="60"/></a>&nbsp;
+  <a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/1280px-scikit-learn-logo.png" title="Sklearn" alt="Sklearn" width="60" height="60"/></a>&nbsp;
+  <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="60" height="60"/></a>&nbsp;
+  <a href="https://www.heroku.com/home" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="60" height="60"/></a>&nbsp;
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/></a>&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/></a>&nbsp;
+  <a href="https://github.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="60" height="60"/></a>&nbsp;
+  <a href="https://git-scm.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/></a>
 </div>
 
 ---
