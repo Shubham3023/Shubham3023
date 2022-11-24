@@ -52,7 +52,7 @@
 
 ### :fire: My Stats :
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shubham3023&theme=onedark)](https://github.com/Shubham3023/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=Shubham3023&theme=onedark)
 
 ![Shubham Verma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubham3023&show_icons=true&theme=radical)
 
