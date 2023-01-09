@@ -26,12 +26,11 @@
 ### :man_technologist: About Me :
  
 - 👀 A **Data Science Enthusiast** with B.E. (Mechanical Engg.) from India.
-- 🌱 I’m currently learning **Machine Learning**.
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP**.
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 You can follow me on LinkedIn: https://lnkd.in/gfPhvjMR
 - 💬 You can reach me on shubhamverma3023@gmail.com
 
----
 
 ---
 ### :fire: Projects:
