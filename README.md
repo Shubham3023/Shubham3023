@@ -31,13 +31,14 @@
 - 📫 You can follow me on LinkedIn: https://lnkd.in/gfPhvjMR
 - 💬 You can reach me on shubhamverma3023@gmail.com
 
-
+<!--
 ---
 ### :fire: Projects:
 - <a href="https://github.com/Shubham3023/BreastCancerPrediction">Breast Cancer Prediction</a>
 - <a href="https://github.com/Shubham3023/FlipkartReviewScraper">Flipkart Review Scraper</a>
 - <a href="https://github.com/Shubham3023/SmsEmailSpamClassifier">Spam Classification</a>
 ---
+-->
 
 ### :hammer_and_wrench: Languages and Tools :
 
